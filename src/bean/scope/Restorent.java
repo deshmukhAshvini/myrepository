@@ -6,6 +6,9 @@ public class Restorent {
 	public void setWelcomeNote(String welcomeNote) {
 		this.welcomeNote = welcomeNote;
 		
+		
+		
+		
 	}
 
 	public void greedCustomer() {
